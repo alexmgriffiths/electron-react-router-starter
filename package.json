@@ -75,7 +75,7 @@
     "@vercel/webpack-asset-relocator-loader": "1.7.0",
     "babel-loader": "^8.2.4",
     "css-loader": "^6.0.0",
-    "electron": "18.0.2",
+    "electron": "18.3.7",
     "node-loader": "^2.0.0",
     "style-loader": "^3.0.0"
   },
